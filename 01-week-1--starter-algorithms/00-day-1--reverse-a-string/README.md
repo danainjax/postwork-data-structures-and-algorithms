@@ -1,5 +1,7 @@
 # Day 1: Reverse a String
 
+Start : DJP - 21 March 2022 04:43 AM
+
 For this task, you'll need to reverse a string. Your method will receive one argument, a string, and be expected to output that string with its letters in reverse order.
 
 ```
